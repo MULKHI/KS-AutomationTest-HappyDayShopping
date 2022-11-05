@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout product use option Pick up myself</description>
+   <name>TC_CO_01</name>
+   <tag>@Valid</tag>
+   <comment></comment>
+   <testCaseGuid>efaff241-0df4-415d-97a4-109302823b4b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout without fill field Full Name and Phone on option Pickup</description>
+   <name>TC_CO_05</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>3ab73830-fd9b-4598-b5ae-d4a2d9658b57</testCaseGuid>
+</TestCaseEntity>

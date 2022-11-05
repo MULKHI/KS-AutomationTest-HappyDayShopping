@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout enter field Full Name with unique character</description>
+   <name>TC_CO_04</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>be145286-d552-473d-b6ad-68826df1a1a0</testCaseGuid>
+</TestCaseEntity>

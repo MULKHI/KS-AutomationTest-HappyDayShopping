@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout enter field Phone on option Pickup with alphabet</description>
+   <name>TC_CO_03</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>dc57cf0e-e714-43e5-bbc8-1e97bf242e56</testCaseGuid>
+</TestCaseEntity>

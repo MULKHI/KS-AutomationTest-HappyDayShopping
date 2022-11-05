@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout product with invalid format email</description>
+   <name>TC_CO_02</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>6f0bbd28-3c5d-4684-afe4-eb43c9e71c89</testCaseGuid>
+</TestCaseEntity>

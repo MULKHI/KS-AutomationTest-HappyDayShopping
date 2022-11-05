@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout without input email address</description>
+   <name>TC_CO_03</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>fbf0a09d-a8c7-41a6-bec4-40208a737d1b</testCaseGuid>
+</TestCaseEntity>

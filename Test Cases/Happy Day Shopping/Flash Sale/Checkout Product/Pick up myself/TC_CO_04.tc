@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout without set Pickup date</description>
+   <name>TC_CO_04</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>a1543415-d4bf-4d2f-9e40-17640e0ad4f9</testCaseGuid>
+</TestCaseEntity>

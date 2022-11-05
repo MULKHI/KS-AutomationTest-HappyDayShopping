@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'thisemail@gmail.com'</initValue>
+      <name>Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'John Albert'</initValue>
+      <name>FullName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'085765455565'</initValue>
+      <name>Phone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jalan Raya Tugu Semper Barat No.20, RT. 10/6, Semper Barat, Cilincing, RT.10/RW.6, Semper Bar., Jakarta Utara, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14130'</initValue>
+      <name>Address</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jakarta'</initValue>
+      <name>City</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout enter field Phone with alphabet</description>
+   <name>TC_CO_05</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>650a5add-709e-4760-b92e-bc3627bd0ee3</testCaseGuid>
+</TestCaseEntity>

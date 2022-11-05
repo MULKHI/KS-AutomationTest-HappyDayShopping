@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout without choose Local</description>
+   <name>TC_CO_08</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>659f96dc-0f39-4903-9196-ea471085e976</testCaseGuid>
+</TestCaseEntity>

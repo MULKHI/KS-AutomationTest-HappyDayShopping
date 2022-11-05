@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add product with 0 Quantity</description>
+   <name>TC_AP_03</name>
+   <tag>@Invalid</tag>
+   <comment></comment>
+   <testCaseGuid>03703cc0-6a0a-4407-b9d5-3e93185c454e</testCaseGuid>
+</TestCaseEntity>

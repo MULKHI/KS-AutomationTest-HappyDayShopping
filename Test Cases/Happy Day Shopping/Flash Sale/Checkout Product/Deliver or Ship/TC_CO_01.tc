@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout product use option Deliver or Ship</description>
+   <name>TC_CO_01</name>
+   <tag>@Valid</tag>
+   <comment></comment>
+   <testCaseGuid>be6abe9a-c84b-46c1-b8d5-bc247471279c</testCaseGuid>
+</TestCaseEntity>
