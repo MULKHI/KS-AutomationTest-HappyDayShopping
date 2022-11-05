@@ -6,3 +6,6 @@
 
 
 ### 🐞Bug Reports
+
+- [x] Some bug reports i found in Happy Day Shopping App [Link](https://bug)
+some bug reports i found in zoro aplikasi app
