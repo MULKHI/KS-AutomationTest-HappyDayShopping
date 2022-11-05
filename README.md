@@ -7,4 +7,4 @@
 
 ### 🐞Bug Reports
 
-- [x] Some bug reports i found in Happy Day Shopping App [Link](https://bug)
+- [x] Some bug i found in Happy Day Shopping App [Link](https://bug)
